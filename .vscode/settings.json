@@ -1,0 +1,5 @@
+{
+    "python-envs.pythonProjects": [],
+    "python.pythonPath": ".venv/bin/python",
+    "python.defaultInterpreterPath": ".venv/bin/python"
+}
